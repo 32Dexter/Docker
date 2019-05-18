@@ -1,0 +1,1 @@
+docker run -e "CODE=999-645-352" --restart=always --network="host" -it dwagent-arm
